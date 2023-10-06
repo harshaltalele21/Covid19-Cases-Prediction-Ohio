@@ -1,4 +1,4 @@
-# Covid19_Cases_Prediction_Ohio
+# Covid19 Cases Prediction Ohio
 Machine Learning Approach to Predicting COVID-19 Cases in Ohio State
 
 
